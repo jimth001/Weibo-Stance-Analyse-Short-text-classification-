@@ -1,0 +1,11 @@
+﻿ID	TARGET	text	STANCE
+1	IphoneSE	3月 31日 苹果 iphone se 正式 开卖 然而 这 款 小屏 新机 并 未 出现 人们 预想 的 疯抢 局面 根据 市场 分析 机构 localytics 周一 公布 的 数据 iphone se 正式 上市 的 这个 周末 销量 成绩 并 不 算 太 好	NONE
+2	IphoneSE	当时 看到 中国 预定 340 万 挺 不 相信 毕竟 6 s 6 s plus 全球 首 周末 1300 万 今天 出乎 所有 人 意料 iphone se 真 的 被 黄牛 低估 了	FAVOR
+3	IphoneSE	phone se 价格 感人 但是 看 这 外形 又 可以 拿 着 5 s 出去 装逼 了	AGAINST
+4	IphoneSE	iphone se 官网 已经 要 2 3 周 发货 了 也 真 是 一 件 神奇 的 事情	AGAINST
+5	IphoneSE	iphone se 良心价 的 原因 之一 内 存只 1gb 如果 真 的 这样 不 知道 会 浇灭 多少 人 马上 掏钱 购买 的 热情	AGAINST
+6	IphoneSE	睡 了 失望 至极 iphone se 和 5 外观 几乎 没有 区别 只是 把 6 s 的 配置 装到 了 原本 的 iphone5s 里 取消 了 3 d touch	AGAINST
+7	IphoneSE	日前 是 国行 iphone se 正式 发售 第一 天 很多 预定 用户 拿 到 了 iphone se 新机 不 过 不少 网友 吐槽 自己 拿 到 的 新机 居然 是 黄屏 的 比 旁边 人 的 iphone 5 s 还 要 黄 从 网友 晒 出 的 图片 来 看 iphone se 屏幕 部分 区域 明显 发 黄 尤其 是 屏幕 的 四边	AGAINST
+8	IphoneSE	iphone se 的 外观 太 让 人 失望 了 也许 价格 会 成 吸引点 吧	AGAINST
+9	IphoneSE	已经 等 不及 想 要 去 看看 这 款 手机 了	FAVOR
+10	IphoneSE	黄屏门 似乎 一直 没有 回应	AGAINST

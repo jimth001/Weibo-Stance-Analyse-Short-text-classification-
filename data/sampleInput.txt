@@ -1,0 +1,11 @@
+﻿ID	TARGET	TEXT	STANCE
+1	IphoneSE	3月31日，苹果iPhone SE正式开卖，然而这款小屏新机并未出现人们预想的疯抢局面。根据市场分析机构Localytics周一公布的数据，iPhone SE正式上市的这个周末，销量成绩并不算太好。	NONE
+2	IphoneSE	当时看到中国预定340万挺不相信，毕竟 6s ／ 6s Plus 全球首周末1300万。今天出乎所有人意料，iPhone SE 真的被（黄牛）低估了	FAVOR
+3	IphoneSE	Phone SE，价格感人，但是看这外形，又可以拿着5s出去装逼了。	AGAINST
+4	IphoneSE	iPhone SE官网已经要2-3周发货了，也真是一件神奇的事情……	AGAINST
+5	IphoneSE	iPhone SE良心价的原因之一：内存只1GB？：如果真的这样，不知道会浇灭多少人马上掏钱购买的热情。	AGAINST
+6	IphoneSE	睡了。失望至极，iphone se和5外观几乎没有区别。只是把6s的配置装到了原本的iphone5s里，取消了3D Touch	AGAINST
+7	IphoneSE	日前是国行iPhone SE正式发售第一天，很多预定用户拿到了iPhone SE新机。不过，不少网友吐槽，自己拿到的新机居然是黄屏的，“比旁边人的iPhone 5S还要黄”。从网友晒出的图片来看，iPhone SE屏幕部分区域明显发黄，尤其是屏幕的四边。	AGAINST
+8	IphoneSE	iPhone SE的外观太让人失望了，也许价格会成吸引点吧	AGAINST
+9	IphoneSE	已经等不及想要去看看这款手机了	FAVOR
+10	IphoneSE	黄屏门似乎一直没有回应？	AGAINST
